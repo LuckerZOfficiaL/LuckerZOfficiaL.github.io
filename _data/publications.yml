@@ -1,6 +1,6 @@
 main:
 
-  - title: ATM: Improving Model Merging by Alternating Tuning and Merging
+  - title: "ATM: Improving Model Merging by Alternating Tuning and Merging"
     authors: Luca Zhou, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Fabrizio Silvestri, Emanuele Rodolà
     conference_short: ""
     conference: ""
