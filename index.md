@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a MS student at Sapienza University of Rome with a passion for cutting-edge research in deep learning. Specifically, I aim to address limitations of deep learning that hinder its practical application. My research interest lie in modular deep learning, multi-task learning, model merging, and unlearning.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Deep Learning:** model merging, multi-task learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** Our paper about multi-task model merging is available as a pre-print!.
+
 
 {% include_relative _includes/publications.md %}
 
