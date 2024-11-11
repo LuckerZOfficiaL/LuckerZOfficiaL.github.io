@@ -6,4 +6,4 @@
 </ul>
 
 
-# you add more blocks like the above
+<!-- you add more blocks like the above -->
