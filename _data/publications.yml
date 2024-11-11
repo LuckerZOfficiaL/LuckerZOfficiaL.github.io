@@ -2,10 +2,10 @@ main:
 
   - title: ATM: Improving Model Merging by Alternating Tuning and Merging
     authors: Luca Zhou, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Fabrizio Silvestri, Emanuele Rodolà
-    conference_short: 
-    conference: 
+    conference_short: ""
+    conference: ""
     pdf: https://arxiv.org/pdf/2411.03055
     code: https://github.com/LuckerZOfficiaL/Alternating-Tuning-and-Merging
-    bibtex: 
+    bibtex: ""
     image: ./assets/img/atm.png
     notes: Pre-print
