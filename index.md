@@ -15,7 +15,7 @@ I am a MS student at Sapienza University of Rome with a passion for cutting-edge
 
 
 ## News
-- **[Feb. 2024]** I'm visiting the University of California San Diego as a visiting scholar, working on Time Series Captioning via LLMs!
+- **[Feb. 2025]** I'm visiting the University of California San Diego as a visiting scholar, working on Time Series Captioning via LLMs!
 - **[Nov. 2024]** Our paper about multi-task model merging is available as a pre-print.
 
 
