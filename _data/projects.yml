@@ -1,0 +1,31 @@
+main:
+
+  - title: "A Contrastive Learning Framework for Closed-Set Finger Photo Identification"
+    authors: Luca Zhou, Matteo Concutelli, Simone Ciferri
+    #conference_short: ""
+    #conference: ""
+    pdf: ./assets/files/Finger_Photo_Identification.pdf
+    #code: https://github.com/
+    #bibtex: ""
+    image: ./assets/img/finerphoto.png
+    #notes: Pre-print
+
+  - title: "Mapping the Landscape of Natural Language Inference: A Survey of NLI Downstream Tasks and Universality"
+    authors: Luca Zhou
+    #conference_short: ""
+    #conference: ""
+    pdf: ./assets/files/NLI_Survey_Project.pdf
+    #code: https://github.com/
+    #bibtex: ""
+    image: ./assets/img/nli_survey.png
+    #notes: Pre-print
+
+  - title: " From Percentages to Finance: Transfer Learning of Mathematical Skills in LLMs"
+    authors: Luca Zhou
+    #conference_short: ""
+    #conference: ""
+    pdf: ./assets/files/LLM___Final_Project__Math_Transfer_Learning.pdf
+    #code: https://github.com/
+    #bibtex: ""
+    image: ./assets/img/math_llm.png
+    #notes: Pre-print

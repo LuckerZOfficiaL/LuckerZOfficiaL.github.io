@@ -21,4 +21,6 @@ I am a MSc student at Sapienza University of Rome with a passion for cutting-edg
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/services.md %}
