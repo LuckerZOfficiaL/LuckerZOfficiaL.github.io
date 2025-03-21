@@ -8,14 +8,14 @@ I am a MSc student at Sapienza University of Rome with a passion for cutting-edg
 
 ## Research Interests
 
-- **Modular deep learning**
-- **Model merging**
-- **Multi-task learning**
+- **Modular Deep Learning**
+- **Model Merging**
+- **Multi-task Learning**
 - **Time Series Analysis**
 
 
 ## News
-- **[Feb. 2025]** I'm visiting the University of California San Diego as a visiting student researcher, working on Time Series Captioning via LLMs under the guidance of Prof. Rose Yu.
+- **[Mar. 2025]** I'm visiting the University of California San Diego as a visiting student researcher, working on **Time Series Captioning via LLMs** under the guidance of Prof. *Rose Yu*.
 - **[Nov. 2024]** Our paper about multi-task learning is available as a pre-print.
 
 

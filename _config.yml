@@ -2,9 +2,9 @@
 remote_theme: yaoyao-liu/minimal-light
 
 title: Luca Zhou
-position: MS Student
+position: MSc Student
 affiliation: Sapienza University of Rome
-email: lucazhou2000@gmail.com
+email: [my name][my surname]2000[AT]gmail[DOT]com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -28,11 +28,11 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
