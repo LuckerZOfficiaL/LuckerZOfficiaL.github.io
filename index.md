@@ -16,7 +16,7 @@ Feel free to connect for collaborations or just to exchange ideas.
 
 
 ## News
-- **[Mar. 2025]** I'm visiting the University of California San Diego as a visiting student researcher, working on **Time Series Captioning via LLMs** under the guidance of Prof. *Rose Yu*.
+- **[Mar. 2025]** I'm visiting the University of California San Diego as a visiting student researcher, working on a **Multimodal Benchmark on Time Series Captioning & Understanding for VLMs**, under the guidance of Prof. *Rose Yu*.
 - **[Nov. 2024]** Our paper about multi-task learning is available as a pre-print.
 
 
