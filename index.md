@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD candidate in Computer Science at *Sapienza University of Rome* with a passion for cutting-edge research in deep learning. I am currently focused on addressing scalability limitations of deep learning that hinder its practical application, as well as the weaknesses of current LLMs. I have previously been an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate student researcher at *UC San Diego*. 
+I am an incoming PhD candidate in Computer Science at *Sapienza University of Rome* with a passion for cutting-edge research in deep learning. I am currently focused on addressing scalability limitations in deep learning that hinder its practical application, as well as the weaknesses of current LLMs. I have previously been an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate student researcher at *UC San Diego*. 
 Feel free to connect for collaborations or just to exchange ideas.
 
 ## Research Interests
 
-- **Modular Deep Learning**
-- **Model Merging**
-- **Multitask Learning**
-- **Time Series Analysis**
-- **LLMs/VLMs**
+- Modular Deep Learning
+- Model Merging
+- Multitask Learning
+- Time Series Analysis
+- LLMs/VLMs
 
 ## News
 - **[Jul. 2025]** I've started a hybrid research internship at **Panasonic North America** on **LLM code generation**, collaborating with *Stanford University* and *ItalAI*. 
