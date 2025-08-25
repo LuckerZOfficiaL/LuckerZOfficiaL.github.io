@@ -16,7 +16,7 @@ Feel free to connect for collaborations or just to exchange ideas.
 - LLMs/VLMs
 
 ## News
-- **[Aug. 2025]** Out new paper explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
+- **[Aug. 2025]** Our new paper **On Task Vectors and Gradients** explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
 - **[Jul. 2025]** I've graduated from **Sapienza University of Rome** with honors! Check out my thesis [here](./assets/files/MS Thesis.pdf).
 - **[Jul. 2025]** Our paper "**ATM: Improving Model Merging by Alternating Tuning and Merging**" has been accepted for presentation at the *Breaking the Monolith: 1st ICIAP Workshop on Advances in Modular Deep Learning*!
 - **[Jun. 2025]** I've started a hybrid research internship at **Panasonic North America** on **LLM code generation**, collaborating with *Stanford University* and *ItalAI*. 
