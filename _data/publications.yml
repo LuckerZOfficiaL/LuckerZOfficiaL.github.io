@@ -1,11 +1,20 @@
 main:
-
+  - title: "On Task Vectors and Gradients"
+    authors: Luca Zhou, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Giuseppe Alessio D'Inverno, Fabrizio Silvestri, Emanuele Rodolà
+    #conference_short: ""
+    #conference: ""
+    pdf: https://arxiv.org/pdf/2508.16082
+    code: https://github.com/LuckerZOfficiaL/Alternating-Tuning-and-Merging
+    #bibtex: ""
+    image: ./assets/img/teaser.png
+    notes: Preprint
+ 
   - title: "ATM: Improving Model Merging by Alternating Tuning and Merging"
     authors: Luca Zhou, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Fabrizio Silvestri, Emanuele Rodolà
     #conference_short: ""
-    #conference: ""
+    conference: "Breaking the Monolith Workshop @ICIAP 2025"
     pdf: https://arxiv.org/pdf/2411.03055
     code: https://github.com/LuckerZOfficiaL/Alternating-Tuning-and-Merging
     #bibtex: ""
     image: ./assets/img/atm.png
-    notes: Breaking the Monolith Workshop @ICIAP 2025
+    #notes: 
