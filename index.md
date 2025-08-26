@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD candidate in Computer Science at *[GLADIA]*(https://gladia.di.uniroma1.it/#about), Sapienza University of Rome. My research interests lie in deep learning, with a particular focus on overcoming scalability challenges that limit its real-world applicability and addressing the current shortcomings of LLMs. Previously, I was an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate researcher at *UC San Diego*.
+I am an incoming PhD candidate in Computer Science at [GLADIA](https://gladia.di.uniroma1.it/#about), Sapienza University of Rome. My research interests lie in deep learning, with a particular focus on overcoming scalability challenges that limit its real-world applicability and addressing the current shortcomings of LLMs. Previously, I was an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate researcher at *UC San Diego*.
 
 I am always open to collaborations and discussions, feel free to connect!
 
@@ -17,6 +17,7 @@ I am always open to collaborations and discussions, feel free to connect!
 - LLMs/VLMs
 
 ## News
+
 - **[Aug. 2025]** Our new paper "**On Task Vectors and Gradients**" explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
 
 - **[Jul. 2025]** I've graduated from **Sapienza University of Rome** with honors! Check out my thesis [here](./assets/files/MS Thesis.pdf).
