@@ -17,8 +17,7 @@ I am always open to collaborations and discussions, feel free to connect!
 - LLMs/VLMs
 
 ## News
-
-%- **[Aug. 2025]** Our new paper "**On Task Vectors and Gradients**" explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
+- **[Aug. 2025]** Our new paper "**On Task Vectors and Gradients**" explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
 
 - **[Jul. 2025]** I've graduated from **Sapienza University of Rome** with honors! Check out my thesis [here](./assets/files/MS Thesis.pdf).
 
