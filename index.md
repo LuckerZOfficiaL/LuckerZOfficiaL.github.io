@@ -23,7 +23,7 @@ I am always open to collaborations and discussions, feel free to connect!
 
 - **[Jul. 2025]** Our paper "**ATM: Improving Model Merging by Alternating Tuning and Merging**" has been accepted for presentation at the *Breaking the Monolith: 1st ICIAP Workshop on Advances in Modular Deep Learning*!
 
-- **[Jun. 2025]** I've started a hybrid research internship at **Panasonic North America** on **LLM code generation**, collaborating with *Stanford University* and *ItalAI*. 
+- **[Jun. 2025]** I've started a hybrid research internship at **Panasonic North America** on **LLM code generation**, collaborating with *Stanford University* and [*ItalAI*](https://italailabs.com/). 
 
 - **[Mar. 2025]** I'm visiting the **University of California San Diego** as a visiting student researcher, working on a **Multimodal Benchmark on Time Series Captioning & Understanding for VLMs**, under the guidance of Prof. *Rose Yu*.
 
