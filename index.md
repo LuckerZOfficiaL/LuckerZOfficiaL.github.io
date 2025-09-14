@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in Computer Science at [GLADIA](https://gladia.di.uniroma1.it/#about), *Sapienza University of Rome*. My research focuses on overcoming scalability challenges and shortcomings of large models that limit their real-world applicability. Previously, I was an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate researcher at *UC San Diego*. 
+I am a first-year PhD student in Computer Science at [GLADIA](https://gladia.di.uniroma1.it/#about), *Sapienza University of Rome*. I was an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate researcher at *UC San Diego*. 
 
-Outside the lab, I stay active through sports and explore my creativity through [photography](https://unsplash.com/@luca_zh_00) and music, pursuits that keep me energized and refreshed.
+My research focuses on post-training methods and modular deep learning, aiming to make large models more adaptable and scalable for tasks such as multitask learning, zero-shot generalization, and efficient model construction. Previously, 
 
-I’m always happy to collaborate, exchange ideas, or just have a chat. Feel free to reach out!
+Outside the lab, I stay active through sports and explore my creativity through [photography](https://unsplash.com/@luca_zh_00) and music. I’m always happy to collaborate, exchange ideas, or just have a chat. Feel free to reach out!
 
 ## Research Interests
 - Modular Deep Learning
