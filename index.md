@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in Computer Science at [GLADIA](https://gladia.di.uniroma1.it/#about), *Sapienza University of Rome*. I was an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate researcher at *UC San Diego*. 
+I am a first-year PhD student in Computer Science at [GLADIA](https://gladia.di.uniroma1.it/#about), *Sapienza University of Rome*. Previously, I was an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate researcher at *UC San Diego*. 
 
 My research primarily focuses on post-training methods and modular deep learning, aiming to make large models more adaptable and scalable for tasks such as multitask learning, zero-shot generalization, and efficient model construction. Previously, 
 
