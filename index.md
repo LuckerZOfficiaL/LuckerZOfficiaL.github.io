@@ -18,7 +18,7 @@ Outside the lab, I stay active through sports and explore my creativity through 
 - LLMs/VLMs
 
 ## News
-- **[09-2025]** Excited to share that our paper "**On Task Vectors and Gradients**" will be presented at the UniReps Workshop, NeurIPS 2025 in San Diego!
+- **[09-2025]** Excited to share that our paper "**On Task Vectors and Gradients**" will be presented at **UniReps** @NeurIPS 2025 in San Diego!
 
 - **[08-2025]** Our new paper "**On Task Vectors and Gradients**" explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
 
