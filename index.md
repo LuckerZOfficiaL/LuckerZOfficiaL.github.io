@@ -22,7 +22,7 @@ Outside the lab, I stay active through sports and explore my creativity through 
 
 - **[08-2025]** 📜 Our new paper "**On Task Vectors and Gradients**" explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
 
-- **[07-2025]** 🚀 I graduated with an MSc from **Sapienza University of Rome** with honors! Check out my thesis [here](./assets/files/MS Thesis.pdf).
+- **[07-2025]** 🎉 I graduated with an MSc from **Sapienza University of Rome** with honors! Check out my thesis [here](./assets/files/MS Thesis.pdf).
 
 - **[07-2025]** 🎉 Our paper "**ATM: Improving Model Merging by Alternating Tuning and Merging**" has been accepted for presentation at the *Breaking the Monolith: 1st ICIAP Workshop on Advances in Modular Deep Learning*!
 
