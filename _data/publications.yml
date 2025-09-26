@@ -1,4 +1,14 @@
 main:
+  - title: "CaTS-Bench: Can Language Models Describe Numeric Time Series?"
+    authors: Luca Zhou, Pratham Yashwante, Marshall Fisher, Alessio Sampieri, Zihao Zhou, Fabio Galasso, Rose Yu
+    #conference_short: ""
+    #conference: "UniReps @NeurIPS 2025"
+    pdf: https://arxiv.org/pdf/2509.20823
+    code: https://github.com/LuckerZOfficiaL/time-series-captioning
+    #bibtex: ""
+    image: ./assets/img/catsbench.png
+    notes: Preprint
+
   - title: "On Task Vectors and Gradients"
     authors: Luca Zhou, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Giuseppe Alessio D'Inverno, Fabrizio Silvestri, Emanuele Rodolà
     #conference_short: ""

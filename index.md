@@ -18,6 +18,8 @@ Outside the lab, I stay active through sports and explore my creativity through 
 - LLMs/VLMs
 
 ## News
+- **[09-2025]** 📜 Our multimodal time series captioning benchmark paper "**CaTS-Bench: Can Language Models Describe Numeric Time Series?**" is now available as a preprint [here](https://arxiv.org/pdf/2509.20823)! 
+
 - **[09-2025]** 🎉 Excited to share that our paper "**On Task Vectors and Gradients**" will be presented at *UniReps @NeurIPS 2025* in San Diego!
 
 - **[08-2025]** 📜 Our new paper "**On Task Vectors and Gradients**" explores the link between task vectors and gradients, and is available as a preprint [here](https://arxiv.org/pdf/2508.16082)!  
