@@ -6,7 +6,7 @@ layout: homepage
 
 I am a first-year PhD student in Computer Science at [GLADIA](https://gladia.di.uniroma1.it/#about), *Sapienza University of Rome*. Previously, I was an exchange student at the *Chinese University of Hong Kong (Shenzhen)* and a visiting graduate researcher at *UC San Diego*. 
 
-My research primarily focuses on *post-training* methods and *modular deep learning*, aiming to make large models more adaptable and scalable for tasks such as *multitask learning*, *zero-shot generalization*, and *efficient model construction*.
+My research primarily focuses on *post-training* methods and *modular deep learning*, aiming to make large models more adaptable and scalable for tasks such as *multitask learning*, *zero-shot generalization*, and *efficient model construction*. In parallel, I am also passionate about *multimodal language models* and *time series analysis*, and especially their intersection.
 
 Outside the lab, I stay active through sports and explore my creativity through [photography](https://unsplash.com/@luca_zh_00) and music. I’m always happy to collaborate, exchange ideas, or just have a chat. Feel free to reach out!
 
