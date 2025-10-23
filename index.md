@@ -17,6 +17,11 @@ Outside the lab, I stay active through sports and explore my creativity through 
 - Time Series Analysis
 - LLMs/VLMs
 
+
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
+
 ## News
 - **[09-2025]** 📜 "**CaTS-Bench: Can Language Models Describe Numeric Time Series?**", our multimodal time series captioning benchmark paper is out as a preprint [here](https://arxiv.org/pdf/2509.20823)! 
 
@@ -33,10 +38,5 @@ Outside the lab, I stay active through sports and explore my creativity through 
 - **[03-2025]** 🚀 I'm visiting the **University of California San Diego** as a visiting student researcher, working on a **Multimodal Benchmark on Time Series Captioning & Understanding** under the guidance of Prof. *Rose Yu*.
 
 - **[11-2024]** 📜 Our paper on multitask learning is available as a preprint [here](https://arxiv.org/pdf/2411.03055)!
-
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}
