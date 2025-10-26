@@ -1,6 +1,6 @@
 main:
   - title: "CaTS-Bench: Can Language Models Describe Numeric Time Series?"
-    authors: **Luca Zhou**, Pratham Yashwante, Marshall Fisher, Alessio Sampieri, Zihao Zhou, Fabio Galasso, and Rose Yu
+    authors: <b>Luca Zhou</b>, Pratham Yashwante, Marshall Fisher, Alessio Sampieri, Zihao Zhou, Fabio Galasso, and Rose Yu
     #conference_short: ""
     #conference: "UniReps @NeurIPS 2025"
     pdf: https://arxiv.org/pdf/2509.20823
@@ -10,7 +10,7 @@ main:
     notes: Preprint
 
   - title: "On Task Vectors and Gradients"
-    authors: **Luca Zhou**, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Giuseppe Alessio D'Inverno, Fabrizio Silvestri, and Emanuele Rodolà
+    authors: <b>Luca Zhou</b>, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Giuseppe Alessio D'Inverno, Fabrizio Silvestri, and Emanuele Rodolà
     #conference_short: ""
     conference: "UniReps @NeurIPS 2025"
     pdf: https://arxiv.org/pdf/2508.16082
@@ -20,7 +20,7 @@ main:
     #notes: Preprint
  
   - title: "ATM: Improving Model Merging by Alternating Tuning and Merging"
-    authors: **Luca Zhou**, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Fabrizio Silvestri, and Emanuele Rodolà
+    authors: <b>Luca Zhou</b>, Daniele Solombrino, Donato Crisostomi, Maria Sofia Bucarelli, Fabrizio Silvestri, and Emanuele Rodolà
     #conference_short: ""
     conference: "Breaking the Monolith Workshop @ICIAP 2025"
     pdf: https://arxiv.org/pdf/2411.03055
