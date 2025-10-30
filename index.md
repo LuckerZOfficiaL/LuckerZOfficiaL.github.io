@@ -14,8 +14,8 @@ Outside the lab, I stay active through sports and explore my creativity through 
 - Modular Deep Learning
 - Model Merging
 - Multitask Learning
+- Multimodal Language Models
 - Time Series Analysis
-- LLMs/VLMs
 
 
 {% include_relative _includes/publications.md %}
