@@ -23,6 +23,7 @@ Outside the lab, I stay active through sports and explore my creativity through 
 {% include_relative _includes/projects.md %}
 
 ## News
+- **[12-2025]** 👨🏻‍🏫 I'll be presenting "**On Task Vectors and Gradients**" at *UniReps @NeurIPS 2025* this Saturday in San Diego, feel free to connect if you attend! 
 - **[09-2025]** 📜 "**CaTS-Bench: Can Language Models Describe Numeric Time Series?**", our multimodal time series captioning benchmark paper is out as a preprint [here](https://arxiv.org/pdf/2509.20823)! 
 
 - **[09-2025]** 🎉 Excited to share that our paper "**On Task Vectors and Gradients**" will be presented at *UniReps @NeurIPS 2025* in San Diego!
