@@ -1,5 +1,5 @@
 main:
-  - title: "CaTS-Bench: Can Language Models Describe Numeric Time Series?"
+  - title: "CaTS-Bench: Can Language Models Describe Time Series?"
     authors: <b>Luca Zhou</b>, Pratham Yashwante, Marshall Fisher, Alessio Sampieri, Zihao Zhou, Fabio Galasso, and Rose Yu
     #conference_short: ""
     #conference: "UniReps @NeurIPS 2025"
